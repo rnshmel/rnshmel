@@ -3,4 +3,5 @@
 ### Project Interests
 - Embedded software and firmware
 - RF Engineering and DSP
+- Software Defined Radios
 - Micro-controller design and implementation
